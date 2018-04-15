@@ -1,3 +1,0 @@
-
- Devops... 
-This is first file for git
